@@ -1,0 +1,26 @@
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.csproj.AssemblyReference.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis__App.Login.resources
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis__App.Register.resources
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.csproj.GenerateResource.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.AssemblyInfoInputs.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.AssemblyInfo.cs
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.csproj.CoreCompileInputs.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\Infosis App.exe
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\Infosis App.deps.json
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\Infosis App.runtimeconfig.json
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\Infosis App.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\Infosis App.pdb
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.csproj.CopyComplete
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\refint\Infosis App.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.pdb
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis App.genruntimeconfig.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\ref\Infosis App.dll
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis__App.Info.resources

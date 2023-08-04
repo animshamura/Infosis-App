@@ -1,0 +1,8 @@
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis  App.csproj.AssemblyReference.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis__App.Login.resources
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis__App.Register.resources
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis  App.csproj.GenerateResource.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis  App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis  App.AssemblyInfoInputs.cache
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis  App.AssemblyInfo.cs
+C:\Users\great computer\source\repos\Infosis  App\Infosis  App\obj\Debug\net6.0-windows\Infosis  App.csproj.CoreCompileInputs.cache
